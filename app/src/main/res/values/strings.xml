@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Question4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="quot_cruised_into_a_bar_on_the_her_picture_graced_the_grime_on_the_door_she_s_a_long_lost_love_at_first_bite_baby_maybe_you_re_wrong_but_you_know_it_s_all_right_that_s_right">\"Cruised into a bar on the ______, Her picture graced the grime on the door, She\'s a long lost love at first bite, Baby, maybe you\'re wrong, But you know it\'s all right, that\'s right</string>
+    <string name="guess_the_missing_lyric">Guess the missing lyric!</string>
+    <string name="d_beach">D: Beach</string>
+    <string name="c_deck">C: Deck</string>
+    <string name="b_shore">B: Shore</string>
+    <string name="a_town">A: Town</string>
+    <string name="want_a_hint_costs_100_points">want_a_hint_costs_100_points</string>
+</resources>
